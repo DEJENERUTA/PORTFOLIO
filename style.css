@@ -1,0 +1,104 @@
+/* body
+ {
+    margin: 0;
+    padding: 0;
+    background-color: lightslategrey;
+    background-image: url(../image/background_image.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat; 
+    
+}   */
+   header
+
+ {
+    background-image: url(../image/background_image.jpg); 
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}    
+
+.main-nav 
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+.main-nav li  {
+    display: inline-block;
+    
+}
+.main-nav li a {
+    color:orangered;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.main-nav li.active a {
+    border: 1px solid gray;
+}
+.main-nav li a:hover {
+    border: 1px solid gray;
+}
+
+body {
+    font-family: monospace;
+}
+.row {
+    max-width: 1200px;
+    margin: auto;
+}
+.hero {
+    position: absolute;
+    width: 1200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+h1 {
+    color:blue;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+}
+.button {
+    margin-top: 30px;
+    margin-left: 440px;
+}
+.btn {
+    border: 1px solid grey;
+    padding: 10px 30px;
+    color :white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.btn-one {
+    background-color: darkslateblue;
+    font-family: monospace;
+}
+.btn-two {
+    font-family: monospace;
+}
+.btn-two:hover {
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;
+}
+footer li {
+    display: inline-block;
+}
+footer {
+    text-align: center;
+    border: solid red 3px;
+    border-radius: 5px;
+    background-color: saddlebrown;
+}
+footer li a {
+    color:blue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
