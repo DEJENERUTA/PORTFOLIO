@@ -102,3 +102,9 @@ footer li a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
 }
+.about h2{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-family: sans-serif;
+}
