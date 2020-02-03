@@ -108,3 +108,53 @@ footer li a {
     line-height: 50px;
     font-family: sans-serif;
 }
+
+#section1 {
+    height: 400px;
+    background: chartreuse;
+    display: inline-block;
+    width: 100%;
+}
+
+#section2 {
+    height: 400px;
+    background: green;
+    display: inline-block;
+    width: 100%;
+}
+
+#section3 {
+    height: 400px;
+    background: gray;
+    display: inline-block;
+    width: 100%;
+}
+
+#section4 {
+    height: 400px;
+    background: palevioletred;
+    display: inline-block;
+    width: 100%;
+}
+
+#section5 {
+    height: 400px;
+    background: red;
+    display: inline-block;
+    width: 100%;
+}
+
+#section6 {
+    height: 400px;
+    background: brown;
+    display: inline-block;
+    width: 100%;
+}
+section h1 {
+    margin: 100%;
+    text-align: center;
+}
+main ul li {
+    display: flex;
+    text-decoration: none;
+}
