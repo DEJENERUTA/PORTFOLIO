@@ -1,0 +1,54 @@
+.container {
+    
+        background-color: #414141;
+        width: 700px;
+        color: #fff;
+      
+}
+h1 {
+        color: rgba(97, 180, 29, 0.835);
+        border: 5px hsla(172, 72%, 41%, 0.835);
+        text-align: center;
+}
+ h2 {
+        color: crimson;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        text-align: center;
+}
+.sammury {
+        
+        color: #fff;
+        margin: 10px;
+        border: 1p solid#ccc;
+        box-shadow: 0 2px 2px #ccc;
+        padding: 20px;
+        display: inline-block;
+}
+       
+.smile {
+  border-radius: 50px;
+}
+
+footer {
+        
+        background-color: sienna;
+        width: 1202px;
+
+}
+footer li  {
+        display: inline-block;
+       
+}
+footer li a {
+    color:blue;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin: 0 10px;
+}
+
+
+
+

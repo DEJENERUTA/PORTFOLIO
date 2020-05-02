@@ -1,0 +1,21 @@
+body {
+    width: 100%;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: cadetblue;
+    text-align: center;
+    font-size: large;
+    font-family: cursive;
+}
+p {
+    padding-left: 20px;
+}
+img {
+    padding-left: 30px;
+    border-radius: 50px;
+    
+}
